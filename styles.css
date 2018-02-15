@@ -1,0 +1,58 @@
+/* add your CSS here */
+.bigframe
+{
+  border: 1px solid;
+  border-color: lightgrey;
+  box-shadow: 5px 5px 5px lightgrey;
+  width: 300px;
+  padding: 0px 10px 10px 10px;
+  font-size: 10px;
+  text-align: justify;
+}
+
+.smallframe
+{
+  border: 1px solid;
+  border-color: lightgrey;
+  border-radius: 5%;
+  padding: 0px 10px 0px 10px;
+  font-family: Trebuchet MS, Arial, Sans-serif;
+  font-size: 15px;
+}
+
+.image
+{
+  padding: 0px 0px 10px 0px;
+}
+
+h3
+{
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Arial Black, Arial, Sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+#myimage
+{
+  width: 300px;
+  border-radius: 5%;
+}
+
+#facts
+{
+  font-style: italic;
+}
+
+.listItems
+{
+  font-weight: bold;
+}
+
+ul
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
