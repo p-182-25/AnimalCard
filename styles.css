@@ -1,28 +1,13 @@
-/* add your CSS here */
-.bigframe
+.mainframe
 {
   border: 1px solid;
-  border-color: lightgrey;
-  box-shadow: 5px 5px 5px lightgrey;
+  border-color: #D3D3D3;
+  box-shadow: 5px 5px 5px #D3D3D3;
   width: 300px;
   padding: 0px 10px 10px 10px;
   font-size: 10px;
   text-align: justify;
-}
-
-.smallframe
-{
-  border: 1px solid;
-  border-color: lightgrey;
-  border-radius: 5%;
-  padding: 0px 10px 0px 10px;
-  font-family: Trebuchet MS, Arial, Sans-serif;
-  font-size: 15px;
-}
-
-.image
-{
-  padding: 0px 0px 10px 0px;
+  background-color: #ffff00;
 }
 
 h3
@@ -32,6 +17,15 @@ h3
   font-family: Arial Black, Arial, Sans-serif;
   letter-spacing: 2px;
   text-align: center;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-shadow: 2px 2px #cc7a00;
+  text-shadow: 1px 1px #000000;
+}
+
+.image
+{
+  padding: 0px 0px 10px 0px;
 }
 
 #myimage
@@ -40,14 +34,19 @@ h3
   border-radius: 5%;
 }
 
+.innerframe
+{
+  border: 1px solid;
+  border-color: #D3D3D3;
+  border-radius: 5%;
+  padding: 0px 10px 0px 10px;
+  font-family: Trebuchet MS, Arial, Sans-serif;
+  font-size: 15px;
+}
+
 #facts
 {
   font-style: italic;
-}
-
-.listItems
-{
-  font-weight: bold;
 }
 
 ul
@@ -55,4 +54,9 @@ ul
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+.listItems
+{
+  font-weight: bold;
 }
