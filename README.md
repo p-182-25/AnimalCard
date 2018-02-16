@@ -1,2 +1,2 @@
 # AnimalCard
-A web-based card to practice HTML and CSS - inspired by Udacity Google Developer Challenge Scholarship: Front-End Web Dev - https://classroom.udacity.com/courses/ud304-emea
+A web-based card to practice HTML and CSS - one of first projects within the Udacity Front-End Web Developer Nanodegree Program - https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
