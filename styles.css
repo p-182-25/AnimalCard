@@ -1,10 +1,10 @@
 .mainframe
 {
   border: 1px solid;
-  border-color: #D3D3D3;
-  box-shadow: 5px 5px 5px #D3D3D3;
+  border-color: #d3d3d3;
+  box-shadow: 5px 5px 5px #d3d3d3;
   width: 300px;
-  padding: 0px 10px 10px 10px;
+  padding: 0 10px 10px 10px;
   font-size: 10px;
   text-align: justify;
 }
@@ -24,7 +24,7 @@ h3
 
 .image
 {
-  padding: 0px 0px 10px 0px;
+  padding: 0 0 10px 0;
 }
 
 #myimage
@@ -36,9 +36,9 @@ h3
 .innerframe
 {
   border: 1px solid;
-  border-color: #D3D3D3;
+  border-color: #d3d3d3;
   border-radius: 5%;
-  padding: 0px 10px 0px 10px;
+  padding: 0 10px 0 10px;
   font-family: Trebuchet MS, Arial, Sans-serif;
   font-size: 15px;
 }
